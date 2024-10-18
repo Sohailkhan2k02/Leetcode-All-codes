@@ -14,6 +14,7 @@ Leetcode Solutions will be Available
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Hash Table
@@ -53,9 +54,11 @@ Leetcode Solutions will be Available
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
