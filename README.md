@@ -17,6 +17,7 @@ Leetcode Solutions will be Available
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0023-merge-k-sorted-lists) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -61,4 +63,16 @@ Leetcode Solutions will be Available
 | ------- |
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
