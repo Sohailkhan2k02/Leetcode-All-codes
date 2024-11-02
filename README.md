@@ -17,6 +17,7 @@ Leetcode Solutions will be Available
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
@@ -105,4 +106,16 @@ Leetcode Solutions will be Available
 | ------- |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
