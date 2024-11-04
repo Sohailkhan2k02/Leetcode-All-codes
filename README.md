@@ -15,6 +15,7 @@ Leetcode Solutions will be Available
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -97,6 +98,7 @@ Leetcode Solutions will be Available
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -118,6 +120,7 @@ Leetcode Solutions will be Available
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
 ## Recursion
 |  |
