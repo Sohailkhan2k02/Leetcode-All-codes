@@ -7,6 +7,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0025-reverse-nodes-in-k-group) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,8 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
