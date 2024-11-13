@@ -12,6 +12,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Leetcode Solutions will be Available
 | [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +112,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
