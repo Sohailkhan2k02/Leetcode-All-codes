@@ -23,6 +23,7 @@ Leetcode Solutions will be Available
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -32,6 +33,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
@@ -129,6 +131,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0048-rotate-image](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Recursion
 |  |
 | ------- |
