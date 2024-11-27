@@ -19,6 +19,7 @@ Leetcode Solutions will be Available
 | [0048-rotate-image](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
+| [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
@@ -50,6 +51,7 @@ Leetcode Solutions will be Available
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -136,4 +138,8 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0025-reverse-nodes-in-k-group) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
