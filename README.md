@@ -31,6 +31,7 @@ Leetcode Solutions will be Available
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
+| [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Leetcode Solutions will be Available
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
