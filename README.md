@@ -30,6 +30,7 @@ Leetcode Solutions will be Available
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -65,6 +66,7 @@ Leetcode Solutions will be Available
 | [0023-merge-k-sorted-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0023-merge-k-sorted-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Leetcode Solutions will be Available
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
 ## Depth-First Search
 |  |
@@ -152,4 +155,20 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
