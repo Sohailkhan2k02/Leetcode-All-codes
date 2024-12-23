@@ -141,6 +141,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Matrix
 |  |
 | ------- |
@@ -171,4 +172,12 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Binary Tree
+|  |
+| ------- |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 <!---LeetCode Topics End-->
