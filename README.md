@@ -27,6 +27,7 @@ Leetcode Solutions will be Available
 | [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -99,6 +100,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0131-palindrome-partitioning) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Queue
@@ -114,6 +116,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Math
 |  |
 | ------- |
