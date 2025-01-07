@@ -27,6 +27,7 @@ Leetcode Solutions will be Available
 | [0954-maximum-sum-circular-subarray](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
+| [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
@@ -116,6 +117,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Math
@@ -185,4 +187,8 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
