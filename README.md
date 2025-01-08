@@ -33,6 +33,7 @@ Leetcode Solutions will be Available
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -120,6 +121,7 @@ Leetcode Solutions will be Available
 | [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
 | ------- |
@@ -191,4 +193,17 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
