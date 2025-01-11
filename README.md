@@ -43,11 +43,13 @@ Leetcode Solutions will be Available
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1502-construct-k-palindrome-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1502-construct-k-palindrome-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -165,6 +168,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
+| [1502-construct-k-palindrome-strings](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1502-construct-k-palindrome-strings) |
 ## Stack
 |  |
 | ------- |
