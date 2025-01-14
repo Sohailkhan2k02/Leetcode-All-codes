@@ -32,6 +32,7 @@ Leetcode Solutions will be Available
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -45,6 +46,7 @@ Leetcode Solutions will be Available
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1502-construct-k-palindrome-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
 |  |
