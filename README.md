@@ -22,6 +22,7 @@ Leetcode Solutions will be Available
 | [0078-subsets](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0090-subsets-ii) |
 | [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0303-range-sum-query-immutable) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
@@ -144,6 +145,7 @@ Leetcode Solutions will be Available
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0303-range-sum-query-immutable) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3427-special-array-ii) |
@@ -233,4 +235,8 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
