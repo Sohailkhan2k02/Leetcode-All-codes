@@ -37,6 +37,7 @@ Leetcode Solutions will be Available
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -56,6 +57,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1502-construct-k-palindrome-strings](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1502-construct-k-palindrome-strings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Leetcode Solutions will be Available
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Leetcode Solutions will be Available
 | [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Math
 |  |
