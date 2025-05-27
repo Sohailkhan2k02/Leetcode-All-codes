@@ -146,6 +146,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0048-rotate-image](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Prefix Sum
 |  |
 | ------- |
