@@ -14,6 +14,7 @@ Leetcode Solutions will be Available
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Leetcode Solutions will be Available
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Math
 |  |
 | ------- |
@@ -246,4 +248,8 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
