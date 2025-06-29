@@ -12,6 +12,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -31,6 +32,7 @@ Leetcode Solutions will be Available
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1524-string-matching-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1524-string-matching-in-an-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -72,6 +74,7 @@ Leetcode Solutions will be Available
 | ------- |
 | [0274-h-index](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0274-h-index) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -160,6 +163,7 @@ Leetcode Solutions will be Available
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/0792-binary-search) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2164-two-best-non-overlapping-events](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sohailkhan2k02/Leetcode-All-codes/tree/master/2699-count-the-number-of-fair-pairs) |
